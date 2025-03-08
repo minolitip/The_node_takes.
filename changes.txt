@@ -23,3 +23,4 @@
 "Commit The collector overtakes." 
 "Commit The combination handwrites." 
 "Commit The submarine mistakes." 
+"Commit The congressman slows." 
